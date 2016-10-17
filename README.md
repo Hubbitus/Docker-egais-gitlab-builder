@@ -1,5 +1,7 @@
 # Docker-egais-gitlab-builder
 
+[![](https://images.microbadger.com/badges/image/hubbitus/docker-egais-gitlab-builder.svg)](https://microbadger.com/images/hubbitus/docker-egais-gitlab-builder)
+
 Docker image for build http://lesegais.ru related projects on `gitlab-ci`.
 It is intended to build `Java` `gradle` projects as backend and also `Sencha` and `React` frontend projects too.
 
