@@ -10,3 +10,4 @@ Based on latest Centos image and include next additional packages:
  * `ruby` - for use `SenchaCMD`
  * `git` - `gradle-node-plugin` require it to `npm` build (@see http://git.taskdata.com/Hubbitus/glr-portal/builds/984)
 
+## Docker hub url: https://hub.docker.com/r/hubbitus/docker-egais-gitlab-builder
